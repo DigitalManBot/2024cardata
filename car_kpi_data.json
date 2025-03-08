@@ -1,0 +1,31 @@
+{
+    "top_cars_US_2024": [
+        "Toyota Camry LE",
+        "Honda Civic LX",
+        "Nissan Altima SV",
+        "Ford F-150 XL",
+        "Chevrolet Silverado 1500 WT",
+        "Hyundai Elantra SE",
+        "Toyota RAV4 LE",
+        "Honda CR-V LX",
+        "Nissan Rogue SV",
+        "Jeep Grand Cherokee Laredo",
+        "Tesla Model 3 Standard Range",
+        "Tesla Model Y Long Range",
+        "Nissan Leaf S",
+        "Chevrolet Bolt EV LT",
+        "Ford Mustang Mach-E Select",
+        "Hyundai Kona Electric SEL",
+        "Kia Niro EV EX",
+        "Volkswagen ID.4 Pro",
+        "Rivian R1T Adventure",
+        "Polestar 2 Long Range Single Motor"
+    ],
+    "top_5_KPIs": [
+        "Cost Over Ownership",
+        "Range (miles)",
+        "Passenger Capacity",
+        "Maintenance Cost",
+        "Towing Capacity (lbs)"
+    ]
+}

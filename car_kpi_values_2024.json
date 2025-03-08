@@ -1,0 +1,149 @@
+{
+    "Toyota Camry LE": {
+        "Cost Over Ownership": 36,
+        "Range (miles)": 560,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 4,
+        "Towing Capacity (lbs)": 0
+    },
+    "Honda Civic LX": {
+        "Cost Over Ownership": 28,
+        "Range (miles)": 470,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 428,
+        "Towing Capacity (lbs)": 0
+    },
+    "Nissan Altima SV": {
+        "Cost Over Ownership": 35,
+        "Range (miles)": 450,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 450,
+        "Towing Capacity (lbs)": 0
+    },
+    "Ford F-150 XL": {
+        "Cost Over Ownership": 45,
+        "Range (miles)": 420,
+        "Passenger Capacity": 3,
+        "Maintenance Cost": 700,
+        "Towing Capacity (lbs)": 13
+    },
+    "Chevrolet Silverado 1500 WT": {
+        "Cost Over Ownership": 45,
+        "Range (miles)": 530,
+        "Passenger Capacity": 6,
+        "Maintenance Cost": 450,
+        "Towing Capacity (lbs)": 13.3
+    },
+    "Hyundai Elantra SE": {
+        "Cost Over Ownership": 27,
+        "Range (miles)": 468,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 4.615,
+        "Towing Capacity (lbs)": 0
+    },
+    "Toyota RAV4 LE": {
+        "Cost Over Ownership": 34,
+        "Range (miles)": 375,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 475,
+        "Towing Capacity (lbs)": 1.5
+    },
+    "Honda CR-V LX": {
+        "Cost Over Ownership": 35,
+        "Range (miles)": 396,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 477,
+        "Towing Capacity (lbs)": 1.5
+    },
+    "Nissan Rogue SV": {
+        "Cost Over Ownership": 33,
+        "Range (miles)": 320,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 480,
+        "Towing Capacity (lbs)": 1.102
+    },
+    "Jeep Grand Cherokee Laredo": {
+        "Cost Over Ownership": 48,
+        "Range (miles)": 476,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 1.04,
+        "Towing Capacity (lbs)": 6.2
+    },
+    "Tesla Model 3 Standard Range": {
+        "Cost Over Ownership": 34,
+        "Range (miles)": 272,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 340,
+        "Towing Capacity (lbs)": 0
+    },
+    "Tesla Model Y Long Range": {
+        "Cost Over Ownership": 45,
+        "Range (miles)": 330,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 3.6,
+        "Towing Capacity (lbs)": 3.5
+    },
+    "Nissan Leaf S": {
+        "Cost Over Ownership": 31,
+        "Range (miles)": 149,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 4,
+        "Towing Capacity (lbs)": 0
+    },
+    "Chevrolet Bolt EV LT": {
+        "Cost Over Ownership": 35,
+        "Range (miles)": 259,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 430,
+        "Towing Capacity (lbs)": 0
+    },
+    "Ford Mustang Mach-E Select": {
+        "Cost Over Ownership": 35,
+        "Range (miles)": 250,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 500,
+        "Towing Capacity (lbs)": 0
+    },
+    "Hyundai Kona Electric SEL": {
+        "Cost Over Ownership": 33,
+        "Range (miles)": 258,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 430,
+        "Towing Capacity (lbs)": 0
+    },
+    "Kia Niro EV EX": {
+        "Cost Over Ownership": 32,
+        "Range (miles)": 253,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 450,
+        "Towing Capacity (lbs)": 0
+    },
+    "Volkswagen ID.4 Pro": {
+        "Cost Over Ownership": 38,
+        "Range (miles)": 275,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 638,
+        "Towing Capacity (lbs)": 2.7
+    },
+    "Rivian R1T Adventure": {
+        "Cost Over Ownership": 100,
+        "Range (miles)": 410,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 1.2,
+        "Towing Capacity (lbs)": 11
+    },
+    "Polestar 2 Long Range Single Motor": {
+        "Cost Over Ownership": 48,
+        "Range (miles)": 320,
+        "Passenger Capacity": 5,
+        "Maintenance Cost": 450,
+        "Towing Capacity (lbs)": 2
+    },
+    "Average": {
+        "Cost Over Ownership": 39.85,
+        "Range (miles)": 362.05,
+        "Passenger Capacity": 4.95,
+        "Maintenance Cost": 335.82275,
+        "Towing Capacity (lbs)": 2.7901000000000002
+    }
+}
